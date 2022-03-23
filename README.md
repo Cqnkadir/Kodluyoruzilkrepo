@@ -32,5 +32,7 @@ Linux için:
 ![lorem gorsel](https://picsum.photos/250/350) 
  
 
+ * [Patika Adresim ](https://app.patika.dev/kqdir)
 
 
+* PATİKA Adresi İçin [Tıklayınız](https://app.patika.dev/)
